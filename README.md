@@ -4,7 +4,8 @@
 
 Welcome to the SlideShare Downloader the fastest, easiest way to download SlideShare presentations for offline access. With our online tool, you can download any SlideShare presentation in just a few simple clicks, without the need to log in. Save, view, and share presentations anytime, anywhere without an internet connection.
 
-👉 **Start downloading now: [SlideShare Downloader](https://slideshare-downloader.com)**
+👉 **Start downloading now: [SlideShare Downloader](https://slideshare-downloader.com) or [SideShare Downloader GitHub](https://slidesharedownloader.github.io/slidesharedownloader/)** 
+
 
 ## Table of Contents
 
